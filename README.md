@@ -1,5 +1,5 @@
 # Hi, I'm Anton Ohota 👋
-React Front-End Developer
+Fullstack Developer
 
 ## 🎓 Education
 - Cherkasy State Technological University **[Computer Network - Bachelor]**
@@ -32,6 +32,17 @@ It demonstrates core front-end development practices such as component-based arc
 **[Repo](https://github.com/anton-oxota/react-movie)**   
 **[More Info](https://github.com/anton-oxota/react-movie/blob/main/README.md)**
 
+ ### Auto Market  
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](	https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+A scalable backend for a car sales platform with role-based access (Buyer, Seller, Manager, Admin) and Basic/Premium accounts. Handles car listings, automated currency conversion, content validation, and provides analytics for premium users. Built for AWS with modular, maintainable architecture.
+
  
+**[Repo](https://github.com/anton-oxota/auto-market)**   
+**[More Info](https://github.com/anton-oxota/auto-market/blob/main/README.md)**
 
 
