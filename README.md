@@ -32,7 +32,7 @@ It demonstrates core front-end development practices such as component-based arc
 **[Repo](https://github.com/anton-oxota/react-movie)**   
 **[More Info](https://github.com/anton-oxota/react-movie/blob/main/README.md)**
 
- ### Auto Market  
+ ### Auto Market API
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
